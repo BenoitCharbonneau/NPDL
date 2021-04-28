@@ -20,6 +20,9 @@ This project was made for academic purposes (Université de Sherbrooke) and aims
 The code is commented in french (requested by our supervising professor). Some function signatures were modified with "_npdl" to make it harder for students to find this code with a copy-paste. The commit history on this repository is empty, since the projet was originally made on the university's GitLab and copied to GitHub afterwards.
 
 Contributors: 
+
 Benoit Charbonneau - Benoit.Charbonneau2@USherbrooke.ca
+
 Pierre-Luc Parent - Pierre-Luc.Parent@USherbrooke.ca
+
 Pierre-Marc Jodoin (supervisor) - Pierre-Marc.Jodoin@USherbrooke.ca
