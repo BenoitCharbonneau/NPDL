@@ -1,0 +1,10 @@
+__pycache__
+.ipynb_checkpoints
+datasets/*
+!datasets/get_datasets.sh
+!datasets/get_sentiment_analysis.sh
+!datasets/wolf.jpg
+!datasets/stripes.jpg
+*.c
+*.so
+*.pyd
